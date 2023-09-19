@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Crop Disease</string>
+    <string name="messages">Messages</string>
+    <string name="back_button">Back</string>
+    <string name="more_options_button">More options</string>
+    <string name="adopt_me">Ask Community</string>
+    <string name="titlelabel">Your question to the community</string>
+    <string name="title">Don\'t forget to add image below</string>
+    <string name="buttonlab">Add image</string>
+    <string name="textlabel">Description of your problem</string>
+</resources>

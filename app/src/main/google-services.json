@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590745191408",
+    "project_id": "crop-disease-fa00e",
+    "storage_bucket": "crop-disease-fa00e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590745191408:android:e2b599f0e5ec9965741335",
+        "android_client_info": {
+          "package_name": "com.example.cropdisease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590745191408-4mhtvhjbdugj6nvf7iij4a04q27t1irh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBboi7Jm9JZ3o2T23IPmY98wASbQcpEacs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590745191408-4mhtvhjbdugj6nvf7iij4a04q27t1irh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
